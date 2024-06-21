@@ -1,0 +1,11 @@
+"A" -----> Academique
+"C" -----> Accès à la citoyenneté canadienne
+"D" -----> Forces canadiennes
+"E" -----> Etudes en France
+"F" -----> Immigration au Canada
+"I" -----> Intégration
+"N" -----> Accès à la nationalité française
+"P" -----> Professionnelle
+"Q" -----> Immigration au québec
+"R" -----> Carte de Résident
+"X" -----> Individuelle

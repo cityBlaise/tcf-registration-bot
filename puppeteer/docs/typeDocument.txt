@@ -1,0 +1,2 @@
+"cni"---->Carte national d'identité
+"passeport"---->Passeport 

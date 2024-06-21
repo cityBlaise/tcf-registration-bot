@@ -1,0 +1,490 @@
+"Ã©cossais" ----> Ã©cossais
+"aÃ¯nou" ----> aÃ¯nou
+"abkhaze" ----> abkhaze
+"aceh" ----> aceh
+"acoli" ----> acoli
+"adangme" ----> adangme
+"adyghé" ----> adyghé
+"afar" ----> afar
+"afrihili" ----> afrihili
+"afrikaans" ----> afrikaans
+"afro-asiatiques, langues" ----> afro-asiatiques, langues
+"akan" ----> akan
+"akkadien" ----> akkadien
+"albanais" ----> albanais
+"aléoute" ----> aléoute
+"algonquines, langues" ----> algonquines, langues
+"allemand" ----> allemand
+"allemand, moyen haut (ca. 1050-1500)" ----> allemand, moyen haut (ca. 1050-1500)
+"allemand, vieux haut (ca. 750-1050)" ----> allemand, vieux haut (ca. 750-1050)
+"altaÃ¯ques, langues" ----> altaÃ¯ques, langues
+"altai du Sud" ----> altai du Sud
+"amérindiennes de l Amérique centrale, &nbsp;langues" ----> amérindiennes de l Amérique centrale,
+		&nbsp;langues
+"amharique" ----> amharique
+"angika" ----> angika
+"anglais" ----> anglais
+"anglais moyen (1100-1500)" ----> anglais moyen (1100-1500)
+"anglo-saxon (ca.450-1100)" ----> anglo-saxon (ca.450-1100)
+"apaches, langues" ----> apaches, langues
+"arabe" ----> arabe
+"aragonais" ----> aragonais
+"araméen d empire (700-300 BCE)" ----> araméen d empire (700-300 BCE)
+"arapaho" ----> arapaho
+"arawak" ----> arawak
+"arménien" ----> arménien
+"aroumain; macÃ©do-roumain" ----> aroumain; macÃ©do-roumain
+"artificielles, langues" ----> artificielles, langues
+"assamais" ----> assamais
+"asturien; bable; léonais; asturoléonais" ----> asturien; bable; léonais; asturoléonais
+"athapascanes, langues" ----> athapascanes, langues
+"australiennes, langues" ----> australiennes, langues
+"austronésiennes, langues" ----> austronésiennes, langues
+"avar" ----> avar
+"avestique" ----> avestique
+"awadhi" ----> awadhi
+"aymara" ----> aymara
+"azéri" ----> azéri
+"bachkir" ----> bachkir
+"balinais" ----> balinais
+"baloutchi" ----> baloutchi
+"baltes, langues" ----> baltes, langues
+"bambara" ----> bambara
+"bamiléké, langues" ----> bamiléké, langues
+"banda, langues" ----> banda, langues
+"bantou, langues" ----> bantou, langues
+"bas allemand; bas saxon; allemand, bas; saxon, bas" ----> bas allemand; bas saxon; allemand, bas; saxon,
+		bas
+"bas-sorabe" ----> bas-sorabe
+"basa" ----> basa
+"basque" ----> basque
+"batak, langues" ----> batak, langues
+"bedja" ----> bedja
+"bemba" ----> bemba
+"bengali" ----> bengali
+"berbères, langues" ----> berbères, langues
+"bhojpuri" ----> bhojpuri
+"bichlamar" ----> bichlamar
+"biélorusse" ----> biélorusse
+"bihari" ----> bihari
+"bikol" ----> bikol
+"bini; edo" ----> bini; edo
+"birman" ----> birman
+"blackfoot" ----> blackfoot
+"blin; bilen" ----> blin; bilen
+"bosniaque" ----> bosniaque
+"bouriate" ----> bouriate
+"braj" ----> braj
+"breton" ----> breton
+"bugi" ----> bugi
+"bulgare" ----> bulgare
+"caddo" ----> caddo
+"carélien" ----> carélien
+"catalan; valencien" ----> catalan; valencien
+"caucasiennes, langues" ----> caucasiennes, langues
+"cebuano" ----> cebuano
+"celtiques, langues; celtes, langues" ----> celtiques, langues; celtes, langues
+"chames, langues" ----> chames, langues
+"chamorro" ----> chamorro
+"chan" ----> chan
+"cherokee" ----> cherokee
+"cheyenne" ----> cheyenne
+"chibcha" ----> chibcha
+"chichewa; chewa; nyanja" ----> chichewa; chewa; nyanja
+"chinois" ----> chinois
+"chinook, jargon" ----> chinook, jargon
+"chipewyan" ----> chipewyan
+"choctaw" ----> choctaw
+"chuuk" ----> chuuk
+"copte" ----> copte
+"coréen" ----> coréen
+"cornique" ----> cornique
+"corse" ----> corse
+"couchitiques,  langues" ----> couchitiques, langues
+"cree" ----> cree
+"créoles et pidgins" ----> créoles et pidgins
+"créoles et pidgins basés sur l anglais" ----> créoles et pidgins basés sur l anglais
+"créoles et pidgins basés sur le français" ----> créoles et pidgins basés sur le français
+"créoles et pidgins basés sur le portugais" ----> créoles et pidgins basés sur le portugais
+"croate" ----> croate
+"dakota" ----> dakota
+"danois" ----> danois
+"dargwa" ----> dargwa
+"dayak, langues" ----> dayak, langues
+"delaware" ----> delaware
+"dinka" ----> dinka
+"dioula" ----> dioula
+"djaghataÃ¯" ----> djaghataÃ¯
+"dogri" ----> dogri
+"dogrib" ----> dogrib
+"douala" ----> douala
+"dravidiennes,  langues" ----> dravidiennes, langues
+"dzongkha" ----> dzongkha
+"efik" ----> efik
+"égyptien" ----> égyptien
+"ekajuk" ----> ekajuk
+"élamite" ----> élamite
+"erza" ----> erza
+"esclave (athapascan)" ----> esclave (athapascan)
+"espagnol; castillan" ----> espagnol; castillan
+"espéranto" ----> espéranto
+"estonien" ----> estonien
+"éwé" ----> éwé
+"éwondo" ----> éwondo
+"fang" ----> fang
+"fanti" ----> fanti
+"féroëen" ----> féroëen
+"fidjien" ----> fidjien
+"filipino; pilipino" ----> filipino; pilipino
+"finno-ougriennes,  langues" ----> finno-ougriennes, langues
+"finnois" ----> finnois
+"fon" ----> fon
+"français" ----> français
+"français ancien (842-ca.1400)" ----> français ancien (842-ca.1400)
+"français moyen (1400-1600)" ----> français moyen (1400-1600)
+"frioulan" ----> frioulan
+"frison occidental" ----> frison occidental
+"frison oriental" ----> frison oriental
+"frison septentrional" ----> frison septentrional
+"ga" ----> ga
+"gaélique; gaélique écossais" ----> gaélique; gaélique écossais
+"galicien" ----> galicien
+"galla" ----> galla
+"gallois" ----> gallois
+"ganda" ----> ganda
+"gayo" ----> gayo
+"gbaya" ----> gbaya
+"géorgien" ----> géorgien
+"germaniques, langues" ----> germaniques, langues
+"gond" ----> gond
+"gorontalo" ----> gorontalo
+"gothique" ----> gothique
+"goudjrati" ----> goudjrati
+"grebo" ----> grebo
+"grec ancien (jusqu'à&nbsp; 1453)" ----> grec ancien (jusqu'à&nbsp; 1453)
+"grec moderne (après 1453)" ----> grec moderne (après 1453)
+"groenlandais" ----> groenlandais
+"guarani" ----> guarani
+"guèze" ----> guèze
+"gwichin" ----> gwichin
+"haÃ¯tien; crÃ©ole haÃ¯tien" ----> haÃ¯tien; crÃ©ole haÃ¯tien
+"haida" ----> haida
+"haoussa" ----> haoussa
+"haut-sorabe" ----> haut-sorabe
+"hawaÃ¯en" ----> hawaÃ¯en
+"hébreu" ----> hébreu
+"herero" ----> herero
+"hiligaynon" ----> hiligaynon
+"himachali" ----> himachali
+"hindi" ----> hindi
+"hiri motu" ----> hiri motu
+"hittite" ----> hittite
+"hmong" ----> hmong
+"hongrois" ----> hongrois
+"hupa" ----> hupa
+"iakoute" ----> iakoute
+"iban" ----> iban
+"ido" ----> ido
+"igbo" ----> igbo
+"ijo, langues" ----> ijo, langues
+"ilocano" ----> ilocano
+"indÃ©terminÃ©e" ----> indÃ©terminÃ©e
+"indo-aryennes, langues" ----> indo-aryennes, langues
+"indo-européennes, langues" ----> indo-européennes, langues
+"indonésien" ----> indonésien
+"ingouche" ----> ingouche
+"interlingua (langue auxiliaire internationale)" ----> interlingua (langue auxiliaire internationale)
+	
+"interlingue" ----> interlingue
+"inuktitut" ----> inuktitut
+"inupiaq" ----> inupiaq
+"iraniennes, langues" ----> iraniennes, langues
+"irlandais" ----> irlandais
+"irlandais ancien (jusquÃ&nbsp; 900)" ----> irlandais ancien (jusquÃ&nbsp; 900)
+"irlandais moyen (900-1200)" ----> irlandais moyen (900-1200)
+"iroquoises, langues" ----> iroquoises, langues
+"islandais" ----> islandais
+"italien" ----> italien
+"japonais" ----> japonais
+"javanais" ----> javanais
+"judéo-arabe" ----> judéo-arabe
+"judéo-espagnol" ----> judéo-espagnol
+"judéo-persan" ----> judéo-persan
+"kabardien" ----> kabardien
+"kabyle" ----> kabyle
+"kachin; jingpho" ----> kachin; jingpho
+"kachoube" ----> kachoube
+"kalmouk; oÃ¯rat" ----> kalmouk; oÃ¯rat
+"kamba" ----> kamba
+"kannada" ----> kannada
+"kanouri" ----> kanouri
+"karakalpak" ----> karakalpak
+"karatchai balkar" ----> karatchai balkar
+"karen, langues" ----> karen, langues
+"karib; galibi; carib" ----> karib; galibi; carib
+"kashmiri" ----> kashmiri
+"kawi" ----> kawi
+"kazakh" ----> kazakh
+"khasi" ----> khasi
+"khmer central" ----> khmer central
+"khoÃ¯san, langues" ----> khoÃ¯san, langues
+"khotanais; sakan" ----> khotanais; sakan
+"kikuyu" ----> kikuyu
+"kimbundu" ----> kimbundu
+"kirghiz" ----> kirghiz
+"kiribati" ----> kiribati
+"klingon" ----> klingon
+"kom" ----> kom
+"kongo" ----> kongo
+"konkani" ----> konkani
+"kosrae" ----> kosrae
+"koumyk" ----> koumyk
+"kpellé" ----> kpellé
+"krou, langues" ----> krou, langues
+"kuanyama; kwanyama" ----> kuanyama; kwanyama
+"kurde" ----> kurde
+"kurukh" ----> kurukh
+"kutenai" ----> kutenai
+"lahnda" ----> lahnda
+"lamba" ----> lamba
+"langues des signes" ----> langues des signes
+"langues non codées" ----> langues non codées
+"lao" ----> lao
+"latin" ----> latin
+"letton" ----> letton
+"lezghien" ----> lezghien
+"limbourgeois" ----> limbourgeois
+"lingala" ----> lingala
+"lituanien" ----> lituanien
+"lojban" ----> lojban
+"lozi" ----> lozi
+"luba-katanga" ----> luba-katanga
+"luba-lulua" ----> luba-lulua
+"luiseno" ----> luiseno
+"lunda" ----> lunda
+"luo (Kenya et Tanzanie)" ----> luo (Kenya et Tanzanie)
+"lushai" ----> lushai
+"luxembourgeois" ----> luxembourgeois
+"mÃ´n-khmer, langues" ----> mÃ´n-khmer, langues
+"macédonien" ----> macédonien
+"madourais" ----> madourais
+"magahi" ----> magahi
+"maithili" ----> maithili
+"makassar" ----> makassar
+"malais" ----> malais
+"malayalam" ----> malayalam
+"maldivien" ----> maldivien
+"malgache" ----> malgache
+"maltais" ----> maltais
+"mandar" ----> mandar
+"mandchou" ----> mandchou
+"mandingue" ----> mandingue
+"manipuri" ----> manipuri
+"manobo, langues" ----> manobo, langues
+"manx; mannois" ----> manx; mannois
+"maori" ----> maori
+"mapudungun; mapuche; mapuce" ----> mapudungun; mapuche; mapuce
+"marathe" ----> marathe
+"mari" ----> mari
+"marshall" ----> marshall
+"marvari" ----> marvari
+"massaÃ¯" ----> massaÃ¯
+"maya, langues" ----> maya, langues
+"mendé" ----> mendé
+"mikmaq; micmac" ----> mikmaq; micmac
+"minangkabau" ----> minangkabau
+"mirandais" ----> mirandais
+"mohawk" ----> mohawk
+"moksa" ----> moksa
+"mongo" ----> mongo
+"mongol" ----> mongol
+"moré" ----> moré
+"mounda, langues" ----> mounda, langues
+"multilingue" ----> multilingue
+"muskogee" ----> muskogee
+"nahuatl, langues" ----> nahuatl, langues
+"napolitain" ----> napolitain
+"nauruan" ----> nauruan
+"navaho" ----> navaho
+"ndébélé du Nord" ----> ndébélé du Nord
+"ndébélé du Sud" ----> ndébélé du Sud
+"ndonga" ----> ndonga
+"néerlandais moyen (ca. 1050-1350)" ----> néerlandais moyen (ca. 1050-1350)
+"néerlandais; flamand" ----> néerlandais; flamand
+"nepal bhasa; newari" ----> nepal bhasa; newari
+"népalais" ----> népalais
+"newari classique" ----> newari classique
+"nias" ----> nias
+"nigéro-kordofaniennes, langues" ----> nigéro-kordofaniennes, langues
+"nilo-sahariennes, langues" ----> nilo-sahariennes, langues
+"niué" ----> niué
+"nko" ----> nko
+"nogaÃ¯; nogay" ----> nogaÃ¯; nogay
+"nord-amérindiennes, langues" ----> nord-amérindiennes, langues
+"norrois, vieux" ----> norrois, vieux
+"norvégien" ----> norvégien
+"norvégien bokmÃ¥l" ----> norvégien bokmÃ¥l
+"norvégien nynorsk; nynorsk, norvégien" ----> norvégien nynorsk; nynorsk, norvégien
+"nubiennes, langues" ----> nubiennes, langues
+"nyamwezi" ----> nyamwezi
+"nyankolÃ©" ----> nyankolÃ©
+"nyoro" ----> nyoro
+"nzema" ----> nzema
+"occitan (aprÃ¨s 1500)" ----> occitan (aprÃ¨s 1500)
+"ojibwa" ----> ojibwa
+"oriya" ----> oriya
+"osage" ----> osage
+"ossÃ¨te" ----> ossÃ¨te
+"otomi, langues" ----> otomi, langues
+"ouÃ¯gour" ----> ouÃ¯gour
+"oudmourte" ----> oudmourte
+"ougaritique" ----> ougaritique
+"ourdou" ----> ourdou
+"ouszbek" ----> ouszbek
+"pachto" ----> pachto
+"pahlavi" ----> pahlavi
+"palau" ----> palau
+"pali" ----> pali
+"pampangan" ----> pampangan
+"pangasinan" ----> pangasinan
+"papiamento" ----> papiamento
+"papoues, langues" ----> papoues, langues
+"pas de contenu linguistique; non applicable" ----> pas de contenu linguistique; non applicable
+"pedi; sepedi; sotho du Nord" ----> pedi; sepedi; sotho du Nord
+"pendjabi" ----> pendjabi
+"persan" ----> persan
+"perse, vieux (ca. 600-400 av. J.-C.)" ----> perse, vieux (ca. 600-400 av. J.-C.)
+"peul" ----> peul
+"phÃ©nicien" ----> phÃ©nicien
+"philippines, langues" ----> philippines, langues
+"pohnpei" ----> pohnpei
+"polonais" ----> polonais
+"portugais" ----> portugais
+"prÃ¢krit, langues" ----> prÃ¢krit, langues
+"provenÃ§al ancien (jusquÃ&nbsp; 1500); occitan ancien (jusquÃ&nbsp; 1500)" ----> provenÃ§al ancien
+		(jusquÃ&nbsp; 1500); occitan ancien (jusquÃ&nbsp; 1500)
+"quechua" ----> quechua
+"rajasthani" ----> rajasthani
+"rapanui" ----> rapanui
+"rarotonga; maori des Ã®les Cook" ----> rarotonga; maori des Ã®les Cook
+"romanche" ----> romanche
+"romanes, langues" ----> romanes, langues
+"roumain; moldave" ----> roumain; moldave
+"rundi" ----> rundi
+"russe" ----> russe
+"rwanda" ----> rwanda
+"sÃ©mitiques, langues" ----> sÃ©mitiques, langues
+"sÃ©rÃ¨re" ----> sÃ©rÃ¨re
+"salishennes, langues" ----> salishennes, langues
+"samaritain" ----> samaritain
+"sames, langues" ----> sames, langues
+"sami de Lule" ----> sami de Lule
+"sami dInari" ----> sami dInari
+"sami du Nord" ----> sami du Nord
+"sami du Sud" ----> sami du Sud
+"sami skolt" ----> sami skolt
+"samoan" ----> samoan
+"sandawe" ----> sandawe
+"sango" ----> sango
+"sanskrit" ----> sanskrit
+"santal" ----> santal
+"sarde" ----> sarde
+"sasak" ----> sasak
+"selkoupe" ----> selkoupe
+"serbe" ----> serbe
+"shona" ----> shona
+"sicilien" ----> sicilien
+"sidamo" ----> sidamo
+"sindhi" ----> sindhi
+"singhalais" ----> singhalais
+"sino-tibÃ©taines, langues" ----> sino-tibÃ©taines, langues
+"sioux, langues" ----> sioux, langues
+"slaves, langues" ----> slaves, langues
+"slavon d église; vieux slave; slavon liturgique; vieux bulgare" ----> slavon d église; vieux slave; slavon
+		liturgique; vieux bulgare
+"slovÃ¨ne" ----> slovÃ¨ne
+"slovaque" ----> slovaque
+"sogdien" ----> sogdien
+"somali" ----> somali
+"songhai, langues" ----> songhai, langues
+"soninkÃ©" ----> soninkÃ©
+"sorabes, langues" ----> sorabes, langues
+"sotho du Sud" ----> sotho du Sud
+"soundanais" ----> soundanais
+"soussou" ----> soussou
+"sranan tongo" ----> sranan tongo
+"suÃ©dois" ----> suÃ©dois
+"sud-amÃ©rindiennes, langues" ----> sud-amÃ©rindiennes, langues
+"suisse alémanique; alémanique; alsacien" ----> suisse alémanique; alémanique; alsacien
+"sukuma" ----> sukuma
+"sumÃ©rien" ----> sumÃ©rien
+"swahili" ----> swahili
+"swati" ----> swati
+"symboles Bliss; Bliss" ----> symboles Bliss; Bliss
+"syriaque" ----> syriaque
+"syriaque classique" ----> syriaque classique
+"tÃ©lougou" ----> tÃ©lougou
+"tadjik" ----> tadjik
+"tagalog" ----> tagalog
+"tahitien" ----> tahitien
+"tai, langues" ----> tai, langues
+"tamacheq" ----> tamacheq
+"tamoul" ----> tamoul
+"tatar" ----> tatar
+"tatar de Crimé" ----> tatar de Crimé
+"tchèque" ----> tchèque
+"tchétchène" ----> tchétchène
+"tchouvache" ----> tchouvache
+"temne" ----> temne
+"tereno" ----> tereno
+"tetum" ----> tetum
+"thaÃ¯" ----> thaÃ¯
+"tibÃ©tain" ----> tibÃ©tain
+"tigrÃ©" ----> tigrÃ©
+"tigrigna" ----> tigrigna
+"tiv" ----> tiv
+"tlingit" ----> tlingit
+"tok pisin" ----> tok pisin
+"tokelau" ----> tokelau
+"tonga (Nyasa)" ----> tonga (Nyasa)
+"tongan (ÃŽles Tonga)" ----> tongan (ÃŽles Tonga)
+"touva" ----> touva
+"tsigane" ----> tsigane
+"tsimshian" ----> tsimshian
+"tsonga" ----> tsonga
+"tswana" ----> tswana
+"tumbuka" ----> tumbuka
+"tupi, langues" ----> tupi, langues
+"turc" ----> turc
+"turc ottoman (1500-1928)" ----> turc ottoman (1500-1928)
+"turkmÃ¨ne" ----> turkmÃ¨ne
+"tuvalu" ----> tuvalu
+"twi" ----> twi
+"ukrainien" ----> ukrainien
+"umbundu" ----> umbundu
+"vaÃ¯" ----> vaÃ¯
+"venda" ----> venda
+"vietnamien" ----> vietnamien
+"volapÃ¼k" ----> volapÃ¼k
+"vote" ----> vote
+"wakashanes, langues" ----> wakashanes, langues
+"wallon" ----> wallon
+"waray" ----> waray
+"washo" ----> washo
+"wolaitta; wolaytta" ----> wolaitta; wolaytta
+"wolof" ----> wolof
+"xhosa" ----> xhosa
+"yao" ----> yao
+"yapois" ----> yapois
+"yi de Sichuan" ----> yi de Sichuan
+"yiddish" ----> yiddish
+"yoruba" ----> yoruba
+"yupik, langues" ----> yupik, langues
+"zandé, langues" ----> zandé, langues
+"zapotÃ¨que" ----> zapotÃ¨que
+"zaza; dimili; dimli; kirdki; kirmanjki; zazaki" ----> zaza; dimili; dimli; kirdki; kirmanjki; zazaki
+	
+"zenaga" ----> zenaga
+"zhuang; chuang" ----> zhuang; chuang
+"zoulou" ----> zoulou
+"zuni" ----> zuni
